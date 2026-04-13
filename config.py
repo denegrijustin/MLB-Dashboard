@@ -18,7 +18,7 @@ TEAM_METADATA = {
     119: {'name': 'Los Angeles Dodgers', 'abbrev': 'LAD', 'league': 'NL', 'division': 'NL West'},
     120: {'name': 'Washington Nationals', 'abbrev': 'WSH', 'league': 'NL', 'division': 'NL East'},
     121: {'name': 'New York Mets', 'abbrev': 'NYM', 'league': 'NL', 'division': 'NL East'},
-    133: {'name': 'Oakland Athletics', 'abbrev': 'ATH', 'league': 'AL', 'division': 'AL West'},
+    133: {'name': 'Oakland Athletics', 'abbrev': 'OAK', 'league': 'AL', 'division': 'AL West'},
     134: {'name': 'Pittsburgh Pirates', 'abbrev': 'PIT', 'league': 'NL', 'division': 'NL Central'},
     135: {'name': 'San Diego Padres', 'abbrev': 'SD', 'league': 'NL', 'division': 'NL West'},
     136: {'name': 'Seattle Mariners', 'abbrev': 'SEA', 'league': 'AL', 'division': 'AL West'},

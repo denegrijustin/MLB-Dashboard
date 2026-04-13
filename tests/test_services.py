@@ -98,5 +98,5 @@ def test_logo_html_contains_img():
 def test_logo_url_royals():
     from utils.logos import logo_url
     url = logo_url(118)
-    assert 'mlbstatic.com' in url
-    assert '118' in url
+    assert url.startswith('https://www.mlbstatic.com/team-logos/')
+    assert url.endswith('118.svg')
